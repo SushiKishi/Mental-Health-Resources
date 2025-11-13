@@ -11,7 +11,7 @@ Whether you are urgently in need of immediate assistance, or are looking for res
     + [LGBTQ Youth - The Trevor Project (Ages 13-24)](#lgbtq-youth---the-trevor-project--ages-13-24-)
     + [Veterans Crisis Line](#veterans-crisis-line)
     + [Maternal Mental Health Hotline](#maternal-mental-health-hotline)
-    + [Substance Abuse Hotline -- Refer to 988](#substance-abuse-hotline----refer-to-988)
+    + [Substance Abuse Hotline - 988](#substance-abuse-hotline---988)
     + [Disaster Distress Hotline (Natural disaster, mass violence, community unrest)](#disaster-distress-hotline--natural-disaster--mass-violence--community-unrest-)
 - [Resources (Non-crisis hotlines, etc.)](#resources--non-crisis-hotlines--etc-)
   * [United States](#united-states-1)
