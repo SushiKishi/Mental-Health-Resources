@@ -74,7 +74,13 @@ The **National Maternal Mental Health Hotline** is free, confidential, and avail
 
 ---
 
-### Substance Abuse Hotline -- Refer to 988
+### Substance Abuse Hotline - 988
+
+* Phone: Call [988](tel:988)
+* Text: Send a message to [988](sms:988)
+* [Online chat](https://chat.988lifeline.org/)
+* If you are deaf or hard of hearing, contacting 988 with your Videophone (VP) number will connect you by video.  You can learn more about this [here](https://988lifeline.org/deaf-hard-of-hearing-hearing-loss/).
+
 
 ---
 
