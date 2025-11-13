@@ -102,7 +102,7 @@ The *Disaster Distress Hotline* provided by SAMHSA is the first national hotline
 
 **Available Monday - Friday, 10AM - 10PM Eastern**
 
-* Call [1-800-950-NAMI](1-800-950-6264) (1-800-950-6264)
+* Call [1-800-950-NAMI](tel:1-800-950-6264) (1-800-950-6264)
 * Text "NAMI" to [62640](sms:62640)
 * Email: [helpline@nami.org](mail:helpline@nami.org)
 
