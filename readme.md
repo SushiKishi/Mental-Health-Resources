@@ -4,8 +4,25 @@ Mental health is the most overlooked aspect of your daily wellbeing.
 
 Whether you are urgently in need of immediate assistance, or are looking for resources to reach out to a friend in need, please make use of (and, if able, contribute to) this curated list of mental health resources.
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+- [It is not weakness or a burden to ask for help!](#it-is-not-weakness-or-a-burden-to-ask-for-help-)
+- [Crisis Hotlines](#crisis-hotlines)
+  * [United States](#united-states)
+    + [988 Hotline - National Suicide Prevention Hotline](#988-hotline---national-suicide-prevention-hotline)
+    + [LGBTQ Youth - The Trevor Project (Ages 13-24)](#lgbtq-youth---the-trevor-project--ages-13-24-)
+    + [Veterans Crisis Line](#veterans-crisis-line)
+    + [Maternal Mental Health Hotline](#maternal-mental-health-hotline)
+    + [Substance Abuse Hotline -- Refer to 988](#substance-abuse-hotline----refer-to-988)
+    + [Disaster Distress Hotline (Natural disaster, mass violence, community unrest)](#disaster-distress-hotline--natural-disaster--mass-violence--community-unrest-)
+- [Resources (Non-crisis hotlines, etc.)](#resources--non-crisis-hotlines--etc-)
+  * [United States](#united-states-1)
+    + [National Alliance on Mental Illness (NAMI)](#national-alliance-on-mental-illness--nami-)
+    + [Substance Abuse Hotline and Resources](#substance-abuse-hotline-and-resources)
+    + [Find a Mental Health Care Provider](#find-a-mental-health-care-provider)
+- [Sources, Footnotes, Thanks, etc.:](#sources--footnotes--thanks--etc-)
+- [To-Do:](#to-do-)
+
+<small><i><a href='http://github.com/3kh0/readme-toc/'>Table of contents generated with readme-toc</a></i></small>
+
 
 # Crisis Hotlines
 
