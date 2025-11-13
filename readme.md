@@ -70,7 +70,7 @@ The **National Maternal Mental Health Hotline** is free, confidential, and avail
 * Hotline: Call **[1-833-TLC-MAMA](tel:1-833-852-6262)** (1-833-852-6262)
 
 
-[^1]The "60 languages" claim comes from the [Postpartum Support International](https://postpartum.net/) website, but I don't see it quoted directly on the HRSA website for the hotline.
+[^1]: The "60 languages" claim comes from the [Postpartum Support International](https://postpartum.net/) website, but I don't see it quoted directly on the HRSA website for the hotline.
 
 ---
 
