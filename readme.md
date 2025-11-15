@@ -179,4 +179,5 @@ Lucio Paiva created a TOC Generator you can find [here](https://luciopaiva.com/m
 
 * Find resources for people who don't live in the US.
 * Add more resources than the handful I already knew of previously
+* Separate document for other countries / languages (e.g. "Mexican Resources" document in spanish,  "Spanish Resources" document in Spanish, but also "US Resources" document in Spanish)
 
