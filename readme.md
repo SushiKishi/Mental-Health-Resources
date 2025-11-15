@@ -17,8 +17,9 @@ Whether you are urgently in need of immediate assistance, or are looking for res
 - [Resources (Non-crisis hotlines, etc.)](#resources-non-crisis-hotlines-etc)
   - [United States](#united-states)
     - [National Alliance on Mental Illness (NAMI)](#national-alliance-on-mental-illness-nami)
-    - [Trans Lifeline - Hotline](#trans-lifeline---hotline)
+    - [Trans Lifeline - Resource and Talk Hotline](#trans-lifeline---resource-and-talk-hotline)
     - [Substance Abuse Hotline and Resources](#substance-abuse-hotline-and-resources)
+    - [Mental Health First Aid - Resources, Training, and More](#mental-health-first-aid---resources-training-and-more)
     - [Find a Mental Health Care Provider](#find-a-mental-health-care-provider)
 - [Sources, Footnotes, Thanks, etc.:](#sources-footnotes-thanks-etc)
 - [To-Do:](#to-do)
@@ -119,7 +120,7 @@ The *Disaster Distress Hotline* provided by SAMHSA is the first national hotline
 
 ---
 
-### Trans Lifeline - Hotline
+### Trans Lifeline - Resource and Talk Hotline
 
 * The same hotline can be used for any purposes - crisis and non-crisis situations alike.
 * English and Spanish
@@ -136,7 +137,20 @@ The *Disaster Distress Hotline* provided by SAMHSA is the first national hotline
 ### Substance Abuse Hotline and Resources
 
 * [https://FindSupport.gov](https://FindSupport.gov) - Find health care or support through this resource from the Substance Abuse and Mental Health Services Administration (SAMHSA)
-* Call the SAMHSA Hotline: 1-800-662-4357]
+* Call the SAMHSA Hotline: 1-800-662-4357
+
+---
+
+### Mental Health First Aid - Resources, Training, and More
+
+"Mental Health First Aid teaches you how to help a loved one who may be struggling. Through this training, you’ll learn how to recognize, understand and respond to signs of mental health or substance use challenges — and offer the first level of support." -- from their ["About" page](https://mentalhealthfirstaid.org/about/).
+
+* [MHFA website](https://mentalhealthfirstaid.org/)
+* [Mental Health Resources](https://mentalhealthfirstaid.org/mental-health-resources/)
+	* A voluminous list of resources is available on their website - General resources, Fire/EMS, Elder care, public safety, Veterans and Military, Anxiety, and much more.
+* [FAQ](https://mentalhealthfirstaid.org/faq/) about Mental Health First Aid training
+* Take a course - [for individuals](https://mentalhealthfirstaid.org/individuals/take-mhfa/) or for [groups/organizations](https://mentalhealthfirstaid.org/organizations/why-bring-mhfa-group/)
+
 
 ---
 
@@ -157,7 +171,6 @@ Lucio Paiva created a TOC Generator you can find [here](https://luciopaiva.com/m
 
 # To-Do:
 
-* Get this ordered a little better (it's 3AM, please forgive me)
+* Find resources for people who don't live in the US.
 * Add more resources than the handful I already knew of previously
-	* Mental Health First Aid Kit
 
