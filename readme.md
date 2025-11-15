@@ -4,7 +4,6 @@ Mental health is the most overlooked aspect of your daily wellbeing.
 
 Whether you are urgently in need of immediate assistance, or are looking for resources to reach out to a friend in need, please make use of (and, if able, contribute to) this curated list of mental health resources.
 
-### [It is not weakness or a burden to ask for help!](#it-is-not-weakness-or-a-burden-to-ask-for-help)
 ### [Crisis Hotlines](#crisis-hotlines)
 - #### [United States](#united-states)
 	-  [988 Hotline - National Suicide Prevention Hotline](#988-hotline---national-suicide-prevention-hotline)
@@ -14,6 +13,11 @@ Whether you are urgently in need of immediate assistance, or are looking for res
     -  [Maternal Mental Health Hotline](#maternal-mental-health-hotline)
     -  [Substance Abuse Hotline - 988](#substance-abuse-hotline---988)
     -  [Disaster Distress Hotline (Natural disaster, mass violence, community unrest)](#disaster-distress-hotline-natural-disaster-mass-violence-community-unrest)
+	
+
+___
+
+
 ### [Resources (Non-crisis hotlines, etc.)](#resources-non-crisis-hotlines-etc)
 - #### [United States](#united-states)
 	-  [National Alliance on Mental Illness (NAMI)](#national-alliance-on-mental-illness-nami)
@@ -21,8 +25,11 @@ Whether you are urgently in need of immediate assistance, or are looking for res
     -  [Substance Abuse Hotline and Resources](#substance-abuse-hotline-and-resources)
     -  [Mental Health First Aid - Resources, Training, and More](#mental-health-first-aid---resources-training-and-more)
     -  [Find a Mental Health Care Provider](#find-a-mental-health-care-provider)
-- ### [Sources, Footnotes, Thanks, etc.:](#sources-footnotes-thanks-etc)
-- ### [To-Do:](#to-do)
+	
+___
+
+- ### [Sources, Footnotes, Thanks, etc.](#sources-footnotes-thanks-etc)
+- ### [To-Do](#to-do)
 
 # Crisis Hotlines
 
