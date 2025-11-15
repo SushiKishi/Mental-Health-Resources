@@ -6,7 +6,7 @@ Whether you are urgently in need of immediate assistance, or are looking for res
 
 ### [Crisis Hotlines](#crisis-hotlines)
 - #### [United States](#united-states)
-	-  [988 Hotline - National Suicide Prevention Hotline](#988-hotline---national-suicide-prevention-hotline)
+	-  [988 Hotline - National Suicide Prevention Hotline](#988-hotline---national-suicide-prevention-hotline-1)
     -  [Trans Lifeline - Crisis Hotline](#trans-lifeline---crisis-hotline)
     -  [LGBTQ Youth - The Trevor Project (Ages 13-24)](#lgbtq-youth---the-trevor-project-ages-13-24)
     -  [Veterans Crisis Line](#veterans-crisis-line)
@@ -18,7 +18,7 @@ Whether you are urgently in need of immediate assistance, or are looking for res
 ___
 
 
-### [Resources (Non-crisis hotlines, etc.)](#resources-non-crisis-hotlines-etc)
+### [Resources (Non-crisis hotlines, etc.)](#resources-non-crisis-hotlines-etc-1)
 - #### [United States](#united-states)
 	-  [National Alliance on Mental Illness (NAMI)](#national-alliance-on-mental-illness-nami)
     -  [Trans Lifeline - Resource and Talk Hotline](#trans-lifeline---resource-and-talk-hotline)
